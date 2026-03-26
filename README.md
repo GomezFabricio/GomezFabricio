@@ -14,11 +14,11 @@ Desarrollador Full Stack con base en analisis y diseno de sistemas, experiencia 
 
 ## Stack principal
 
-- Lenguajes: JavaScript, PHP, Python, R
-- Frontend: React, HTML, CSS, Vite
-- Backend: Node.js, Express, MVC
+- Lenguajes: JavaScript, PHP, Python
+- Frontend: React, Next, HTML, CSS
+- Backend: Node.js, Express, FastAPI
 - Bases de datos: MySQL
-- Herramientas: Git, GitHub, VS Code
+- Herramientas: Git, GitHub, Gitlab, VS Code, Opencode, Claude Code, Ghostty
 
 ## Proyectos destacados
 
@@ -31,14 +31,10 @@ Desarrollador Full Stack con base en analisis y diseno de sistemas, experiencia 
 - [sistema-premoldeado](https://github.com/GomezFabricio/Sistema_Premoldeado)  
   Sistema modular en PHP con estructura por controladores, modelos y vistas.
 - [fitonline](https://github.com/GomezFabricio/fitonline)  
-  App web Node.js + Express para gestion de rutinas y usuarios.
+  App web sencilla Node.js + Express para gestion de rutinas y usuarios.
 
-### Datos y analitica
 
-- [data-science-practice-r](https://github.com/GomezFabricio/mundos_e_data_science)  
-  Practicas de ciencia de datos en R, analisis y ejercicios aplicados.
-
-### Proyectos academicos relevantes
+### Proyectos academicos
 
 - [utn-pwi-todo-app](https://github.com/GomezFabricio/UTN_PWI_TP_FINAL)  
   Aplicacion React de lista de tareas (proyecto academico).
@@ -49,6 +45,7 @@ Actualmente enfocado en:
 - construir soluciones web mantenibles (frontend + backend),
 - mejorar calidad de codigo y documentacion tecnica,
 - incorporar buenas practicas de arquitectura, testing y evolucion incremental.
+- diseñar y desarrollar soluciones impulsadas por IA utilizando SDD (Spec-Driven Development), creando frameworks y flujos de trabajo que permitan colaborar de forma activa, eficiente y escalable con sistemas de inteligencia artificial.
 
 ## Contacto
 
