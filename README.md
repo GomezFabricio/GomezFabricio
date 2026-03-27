@@ -18,7 +18,7 @@ Desarrollador Full Stack con base en analisis y diseno de sistemas, experiencia 
 - Frontend: React, Next, HTML, CSS
 - Backend: Node.js, Express, FastAPI
 - Bases de datos: MySQL
-- Herramientas: Git, GitHub, Gitlab, VS Code, Opencode, Claude Code, Ghostty
+- Herramientas: Git, GitHub, Gitlab, VS Code, Opencode, Claude Code
 
 ## Proyectos destacados
 
